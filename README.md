@@ -3,11 +3,18 @@
 The Scalable Broker web application has a very limited functionality for daily life activities, for example like exporting of transaction list, or reactivating expired sell orders
 so this is my attempt to enhance it :)
 
+> **Disclaimer:** This project is **not affiliated with, endorsed by, or sponsored by**
+> Scalable Capital GmbH. "Scalable Capital" is trademark of their
+> respective owners. This is an independent, unofficial utility.
+>
+> Users are responsible for complying with Scalable Capital's terms of service.
+> This software does not provide financial advice.
+
 ## Firefox extension
 ### Reactivate expired/canceled sell orders with price limit (tested on Firefox v113)
 Usage:
 1. Install the Firefox Extension:
-   - Visit the URL https://addons.mozilla.org/en-US/firefox/addon/scalable-broker-utils/.
+   - Visit the URL https://addons.mozilla.org/en-US/firefox/addon/broker-utils/.
    - On the webpage, you will see an `Add to Firefox` button. Click on it.
    - A pop-up window will appear, displaying information about the extension. Review the details and make sure it is the correct extension you want to install.
    - Click on the `Add` button to start the installation process.
@@ -36,24 +43,9 @@ Usage:
 As I do not have a Google Developer account, I cannot upload this extension to the **Chrome Web Store**. You can still use it by loading it in unpacked mode:
 1. Open Chrome and go to [`chrome://extensions/`](chrome://extensions/).
 2. Enable **Developer mode** (toggle in the top-right corner).
-3. Click **Load unpacked** and select the folder: *chrome-extension/scalable-broker-utils/dist*.
+3. Click **Load unpacked** and select the folder: *chrome-extension/broker-utils/dist*.
 
 The extension should now be active and ready to use.
-
-## Vanilla JavaScript
-### exportTransactions
-
-Usage:
-1. Navigate to https://de.scalable.capital/broker/transactions.
-2. Just copy and paste content of the [scalable-broker.js](src/scalable-broker.js) into development console of your browser.
-3. Go back to the transactions' page and press `Export CSV` button.  
-
-### cancelOrder
-
-Usage:
-1. Navigate to https://de.scalable.capital/broker.
-2. Just copy and paste content of the [scalable-broker.js](src/scalable-broker.js) into development console of your browser.
-3. call `util.cancelOrder(<BrokerPortfolioId>, <BrokerSecurityTransactionId>)`. Make sure to use real Ids as arguments!
 
 ## Release Notes
 
