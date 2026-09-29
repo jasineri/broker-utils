@@ -1,4 +1,4 @@
-# Scalable Broker utilities
+# Broker utilities
 
 The Scalable Broker web application has a very limited functionality for daily life activities, for example like exporting of transaction list, or reactivating expired sell orders
 so this is my attempt to enhance it :)
