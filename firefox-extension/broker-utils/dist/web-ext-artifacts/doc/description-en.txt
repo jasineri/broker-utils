@@ -1,3 +1,6 @@
+Disclaimer: This project is not affiliated with, endorsed by, or sponsored by Scalable Capital GmbH. "Scalable Capital" is trademark of their respective owners. This is an independent, unofficial utility.
+Users are responsible for complying with Scalable Capital's terms of service.
+This software does not provide financial advice.
 The Firefox extension is designed to enhance the functionality of Scalable Broker by adding a specific feature. It allows users to reactivate expired sell orders and includes the ability to set a limit price. This additional functionality aims to improve the overall user experience and provide more control over trading activities on the platform.
 Usage:
 1. Install the Firefox Extension:

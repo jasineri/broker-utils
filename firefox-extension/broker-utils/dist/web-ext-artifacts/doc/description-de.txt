@@ -1,3 +1,6 @@
+Haftungsausschluss: Dieses Projekt steht in keiner Verbindung zu Scalable Capital GmbH und wird von Scalable Capital GmbH weder unterstützt noch gesponsert. „Scalable Capital" ist eine Marke der jeweiligen Inhaber. Dies ist ein unabhängiges, inoffizielles Werkzeug.
+Die Nutzer sind selbst dafür verantwortlich, die Nutzungsbedingungen von Scalable Capital einzuhalten.
+Diese Software stellt keine Finanzberatung dar.
 Die Firefox-Erweiterung wurde entwickelt, um die Funktionalität von Scalable Broker durch Hinzufügen einer spezifischen Funktion zu verbessern. Sie ermöglicht es Benutzern, abgelaufene oder abgelehnte Verkaufsorders zu reaktivieren und einen Limitpreis festzulegen. Diese zusätzliche Funktionalität zielt darauf ab, das allgemeine Benutzererlebnis zu verbessern und mehr Kontrolle über Handelsaktivitäten auf der Plattform zu bieten.
 Verwendung:
 1. Installiere die Firefox-Erweiterung:
