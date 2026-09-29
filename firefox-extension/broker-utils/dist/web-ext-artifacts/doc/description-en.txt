@@ -1,7 +1,7 @@
 The Firefox extension is designed to enhance the functionality of Scalable Broker by adding a specific feature. It allows users to reactivate expired sell orders and includes the ability to set a limit price. This additional functionality aims to improve the overall user experience and provide more control over trading activities on the platform.
 Usage:
 1. Install the Firefox Extension:
-◦ Visit the URL "https://addons.mozilla.org/en-US/firefox/addon/scalable-broker-utils/".
+◦ Visit the URL "https://addons.mozilla.org/en-US/firefox/addon/broker-utils/".
 ◦ On the webpage, you will see an "Add to Firefox" button. Click on it.
 ◦ A pop-up window will appear, displaying information about the extension. Review the details and make sure it is the correct extension you want to install.
 ◦ Click on the "Add" button to start the installation process.
