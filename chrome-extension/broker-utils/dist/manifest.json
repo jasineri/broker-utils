@@ -17,7 +17,7 @@
   "content_scripts": [
     {
       "matches": ["https://de.scalable.capital/*"],
-      "js": ["utils.scalable.js"]
+      "js": ["utils.broker.js"]
     }
   ],
   "action": {
