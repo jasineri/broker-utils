@@ -9,6 +9,7 @@ so this is my attempt to enhance it :)
 >
 > Users are responsible for complying with Scalable Capital's terms of service.
 > This software does not provide financial advice.
+---
 
 ## Firefox extension
 ### Reactivate expired/canceled sell orders with price limit (tested on Firefox v113)
