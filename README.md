@@ -11,7 +11,7 @@
 
 The extension adds an optional, locally executed feature to the Scalable Broker user interface. It allows users to revisit expired or rejected sell orders and, if desired, enter a new limit price. The extension is intended solely to improve usability and provide a more convenient way of managing the user's own trading activities. It does not modify or replace any broker-provided trading mechanisms and does not make independent trading decisions. Any order is submitted only as a result of an explicit user action through the broker's existing functionality and remains subject to the broker's applicable terms, security measures, and order-processing mechanisms.
 ## Firefox extension
-### Reactivate expired/canceled sell orders with price limit (tested on Firefox v113)
+### Reactivate expired/canceled sell orders with price limit
 Usage:
 1. Install the Firefox Extension:
    - Visit the URL https://addons.mozilla.org/en-US/firefox/addon/broker-utils/.
@@ -51,8 +51,8 @@ The extension should now be active and ready to use.
 
 Release Notes
 
-Firefox extension version 0.1.12 - 2026-09-30\
-Greasemonkey script version 0.1.12 - 2026-09-30
+Firefox extension version 0.1.13 - 2026-09-30\
+Greasemonkey script version 0.1.13 - 2026-09-30
 
 + Enhance description
 

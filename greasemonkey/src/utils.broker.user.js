@@ -2,7 +2,7 @@
 // @name        utils.broker
 // @author      jasineri @github.com/jasineri/broker-utils
 // @namespace   jasineri
-// @version     0.1.12
+// @version     0.1.13
 // @downloadURL   https://raw.githubusercontent.com/jasineri/broker-utils/master/greasemonkey/src/utils.broker.user.js
 // @description This project is an independent, unofficial third-party tool. The extension adds an optional, locally executed feature to the Scalable Broker user interface.
 // @match       *://de.scalable.capital/*

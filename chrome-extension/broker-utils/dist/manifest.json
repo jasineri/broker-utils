@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Broker Utils",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "author": "jasineri @github.com/jasineri/broker-utils",
   "description": "This project is an independent, unofficial third-party tool. The Chrome extension adds an optional, locally executed feature to the Scalable Broker user interface.",
   "icons": {
