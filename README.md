@@ -1,16 +1,15 @@
 # Broker utilities
 
-The Scalable Broker web application has a limited functionality for daily life activities, for example like reactivating expired sell orders,
-so this is my attempt to enhance it :)
-
-> **Disclaimer:** This project is **not affiliated with, endorsed by, or sponsored by**
-> Scalable Capital GmbH. "Scalable Capital" is trademark of their
-> respective owners. This is an independent, unofficial utility.
->
-> Users are responsible for complying with Scalable Capital's terms of service.
-> This software does not provide financial advice.
+> **Disclaimer**
+> This project is not affiliated with Scalable Capital GmbH and is neither endorsed nor sponsored by Scalable Capital GmbH. “Scalable Capital” and any other referenced trademarks are trademarks of their respective owners. This project is an independent, unofficial third-party tool.
+> Use of this software is entirely at your own risk and responsibility. Users are solely responsible for complying with the applicable terms of use, policies, rules, and requirements of Scalable Capital and for ensuring that their use of this software is permitted under those terms.
+> Users are solely responsible for all actions, orders, transactions, and trading decisions made or supported through the use of this software. Users should independently verify all displayed information, order parameters, and settings before submitting any transaction.
+> The developer and/or maintainer of this project assumes no responsibility or liability for trading decisions, financial losses, loss of profits, incorrect or unexecuted orders, technical issues, service interruptions, changes to broker interfaces, or any other damages arising from or related to the use of, or inability to use, this software.
+> This software does not constitute financial, investment, legal, or tax advice. Use of this software does not create any advisory, fiduciary, or client relationship between the developer and the user.
+> The user remains solely responsible for their decisions and actions when using this software.
 ---
 
+The extension adds an optional, locally executed feature to the Scalable Broker user interface. It allows users to revisit expired or rejected sell orders and, if desired, enter a new limit price. The extension is intended solely to improve usability and provide a more convenient way of managing the user's own trading activities. It does not modify or replace any broker-provided trading mechanisms and does not make independent trading decisions. Any order is submitted only as a result of an explicit user action through the broker's existing functionality and remains subject to the broker's applicable terms, security measures, and order-processing mechanisms.
 ## Firefox extension
 ### Reactivate expired/canceled sell orders with price limit (tested on Firefox v113)
 Usage:
