@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
   "name": "Scalable Broker Utils",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "author": "jasineri @github.com/jasineri/broker-utils",
-  "description": "A Chrome extension to enhance the functionality of Scalable Broker. Adds reactivate expired sell orders functionality with price limit",
+  "description": "This project is an independent, unofficial third-party tool. The Chrome extension adds an optional, locally executed feature to the Scalable Broker user interface.",
   "icons": {
     "48": "icons/icon.png"
   },

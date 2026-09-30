@@ -51,6 +51,11 @@ The extension should now be active and ready to use.
 
 Release Notes
 
+Firefox extension version 0.1.12 - 2026-09-30\
+Greasemonkey script version 0.1.12 - 2026-09-30
+
++ Enhance description
+
 Firefox extension version 0.1.11 - 2026-09-02\
 Greasemonkey script version 0.1.11 - 2026-09-02
 

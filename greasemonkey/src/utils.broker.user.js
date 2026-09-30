@@ -2,9 +2,9 @@
 // @name        utils.broker
 // @author      jasineri @github.com/jasineri/broker-utils
 // @namespace   jasineri
-// @version     0.1.11
+// @version     0.1.12
 // @downloadURL   https://raw.githubusercontent.com/jasineri/broker-utils/master/greasemonkey/src/utils.broker.user.js
-// @description Enhancements on scalable.capital/broker: adds resell button to expired orders
+// @description This project is an independent, unofficial third-party tool. The extension adds an optional, locally executed feature to the Scalable Broker user interface.
 // @match       *://de.scalable.capital/*
 // ==/UserScript==
 function c(a){e(a);clearTimeout(a.o);a.o=setTimeout(()=>{e(a);null!=a.h&&(a.g=0,g(a))},1E3);switch(a.g){case 0:g(a);break;case 1:h(a,"//button//span[not(@disabled) and (text()='V' or contains(text(), 'Verkaufen'))]",1);break;case 2:null!=a.i?h(a,"//button[contains(@aria-label, 'Handelsplatz')]",2,()=>h(a,"//div[contains(text(), '"+a.i+"')]",3)):a.g=4;break;case 4:h(a,"//*[text()='St\u00fcckzahl']",4,()=>k(a,()=>document.execCommand("insertText",!1,a.m),5,()=>h(a,"//button//*[contains(text(), 'Order vorbereiten')]",
