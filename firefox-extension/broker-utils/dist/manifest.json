@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Scalable Broker Utils",
+  "name": "Broker Utils",
   "version": "0.1.12",
   "author": "jasineri @github.com/jasineri/broker-utils",
   "description": "This project is an independent, unofficial third-party tool. The Firefox extension adds an optional, locally executed feature to the Scalable Broker user interface.",
